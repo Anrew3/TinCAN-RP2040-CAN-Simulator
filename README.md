@@ -40,3 +40,8 @@ Use this site to flash the firmware via USB once the device is built. If you hav
          alt="Open TinCAN Flasher">
   </a>
 </div>
+
+## WIRING HARNESS ADDONS
+  - [SYNC3 (Coming Soon)](https://www.google.com)
+  - [SYNC4 (Coming Soon)](https://www.google.com)
+  - [IPC (Coming Soon)](https://www.google.com)
