@@ -25,6 +25,12 @@
 ![Screenshot](docs/images/TinCAN_Wiring.jpg)
 
 ## Flashing Firmware
-  #### There are two options...
-  - Simple GUI FLASH [Simple](https://www.Arduino.com)
-  - Build & Compile using the Arduino IDE
+
+Use this site to flash the firmware via USB once the device is built. If you have issues you can use the Arduino IDE as well to build & upload manually.
+
+<div align="center">
+    <a href="https://anrew3.github.io/TinCAN-RP2040-CAN-Simulator/tincan-flasher.html" target="_blank">
+      <img src="https://img.shields.io/badge/🔧%20Flash%20Firmware-Open%20Flasher-blue?style=for-the-badge&logo=browser&logoColor=white" alt="Open TinCAN
+   Flasher">
+    </a>
+  </div>
